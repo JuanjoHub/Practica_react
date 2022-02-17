@@ -1,0 +1,279 @@
+{
+  "main": {
+    "name": "Juan Jose Cogollo Caviedes",
+    "occupation": "",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "Soy un joven programador junior, que acabo de terminar mis estudios de grado superior y quiero empezar a trabajar cuanto antes.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "juanjose.cogollo.caviedes@gmail.com",
+    "phone": "630 52 95 65",
+    "address": {
+      "street": "C/Demostenes,32",
+      "city": "Las Rozas",
+      "state": "(Madrid)",
+      "zip": "28232"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/tim.baker.906",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/tbakerx",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Aqui dejo un pequeño resumen de mis skills como programador una vez terminado el curso superior de desarrollo de aplicaciones web.",
+    "education": [
+      {
+        "school": "IES San Juan de la Cruz",
+        "degree": "Formacion grado superior - Desarrollo de aplicaciones web",
+        "graduated": "Junio 2022",
+        "description": "En mi paso por este grado superior he aprendido a desenvolverme con casi cualquier tipo de lenguaje de programacion(Java,PHP,JS...), lenguaje de marcas(HTML5,CSS3) y lenguajes orientados a BBDD(Oracle, MySQL)."
+      }
+      
+    ],
+    
+    "work": [
+      {
+        "company": "Aspa Consulting",
+        "title": "Senior SAP",
+        "years": "March 2022 - Present",
+        "description": "Actualmente estoy realizando mis prracticas en ASPA consulting en la que espero una incorporacion laboral."
+      }
+      
+    ],
+    
+    "skills": [
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "PHP",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "React",
+        "level": "50%"
+      },
+      {
+        "name": "Angular",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Curriculum Vitae",
+        "category": "Mi curriculum profesional en html y css",
+        "image": "CV5.png",
+        "url": "https://github.com/JuanjoHub/RepositoriosGit/tree/master/practicas/CV",
+        "demo": "./practicas/CV/CV.html"
+      },
+      {
+        "title": "Tres Ejercicios en uno",
+        "category": "Color de fondo,Aumentar Salario, Adivina el numero",
+        "image": "Practica_1.png",
+        "url": "https://github.com/JuanjoHub/RepositoriosGit/blob/master/practicas/Practica_1/Ejercicio_1.html",
+        "demo": "./practicas/Practica_1/Ejercicio_1.html"
+      },
+      {
+        "title": "Loteria",
+        "category": "Ejercicio de generar numeros de loteria",
+        "image": "loteria_react.png",
+        "url": "https://github.com/JuanjoHub/RepositoriosGit/blob/master/practicas/Practica_1/Ejercicio_loteria.html",
+        "demo": "./practicas/Practica_1/Ejercicio_loteria.html"
+      },
+      {
+        "title": "Calculadora",
+        "category": "Ejercicio calculadora, sumar y restar",
+        "image": "Calculadora_recorte.png",
+        "url": ".https://github.com/JuanjoHub/RepositoriosGit/tree/master/practicas/Practica_2",
+        "demo": "./practicas/Practica_2/Calculadora.html"
+      },
+
+
+      {
+        "title": "Ejemplo objetos",
+        "category": "Ejemplo sencillo de objetos en JS",
+        "image": "Tigre_de_bengala_react.png",
+        "url": "https://github.com/JuanjoHub/RepositoriosGit/blob/master/practicas/Practica_7/Clases_objetos.html",
+        "demo": "./practicas/Practica_7/Clases_objetos.html"
+      },
+
+
+      {
+        "title": "Insertar texto",
+        "category": "Insertamos texto en la posicion que indiquemos",
+        "image": "insert_react.png",
+        "url": "https://github.com/JuanjoHub/RepositoriosGit/blob/master/practicas/Practica_7/Ejercicio_7.1.html",
+        "demo": "./practicas/Practica_7/Ejercicio_7.1.html"
+      },
+      
+      {
+        "title": "Redireccion",
+        "category": "Redireccion a otra pagina en 5 segundos",
+        "image": "Ejercicio_7.2_bueno.png",
+        "url": "https://github.com/JuanjoHub/RepositoriosGit/blob/master/practicas/Practica_7/Ejercicio_7.2.html",
+        "demo": "./practicas/Practica_7/Ejercicio_7.2.html"
+      },
+
+      {
+        "title": "Cookies",
+        "category": "Contador de visitas",
+        "image": "cookies_react.png",
+        "url": "https://github.com/JuanjoHub/RepositoriosGit/blob/master/practicas/Practica_7/Ejercicio_7.3.html",
+        "demo": "./practicas/Practica_7/Ejercicio_7.3.html"
+      },
+
+      {
+        "title": "Texto que persigue al raton",
+        "category": "Un recuadro perseguira a nuestro raton por la pantalla",
+        "image": "Gatoraton_react.png",
+        "url": "https://github.com/JuanjoHub/RepositoriosGit/blob/master/practicas/Practica_8.1/Actividad_8.1.html",
+        "demo": "./practicas/Practica_8.1/Actividad_8.1.html"
+      },
+
+      {
+        "title": "Coordenadas",
+        "category": "En la consola del navegador 'F12' podremos ver los distintos tipos de coordenadas segun la pantalla",
+        "image": "Mapa_coordenadas.png",
+        "url": "https://github.com/JuanjoHub/RepositoriosGit/blob/master/practicas/Practica_8.2/Actividad_8.2.html",
+        "demo": "./practicas/Practica_8.2/Actividad_8.2.html"
+      },
+
+      {
+        "title": "Anular comportamientos predeterminados",
+        "category": "Un enlace en el que se nos preguntara si de verdad queremos acceder a otro sitio web",
+        "image": "logo-wikipedia_react.png",
+        "url": "https://github.com/JuanjoHub/RepositoriosGit/blob/master/practicas/Practica_8.3.4/Ejercicio_8.3.4.html",
+        "demo": "./practicas/Practica_8.3.4/Actividad_8.3.4.html"
+      },
+
+      {
+        "title": "Cancelar propagacion",
+        "category": "Podemos cancelar la propagación mediante un método llamado stopPropagation",
+        "image": "stop_propagacion.png",
+        "url": "https://github.com/JuanjoHub/RepositoriosGit/blob/master/practicas/Practica_8.3.5/Ejercicio_8.3.5.html",
+        "demo": "./practicas/Practica_8.3.5/Actividad_8.3.5.html"
+      },
+
+      {
+        "title": "Eventos de ratón",
+        "category": "Aparece un rectángulo en medio de la pantalla en el que podremos interactuar con los clics del ratón",
+        "image": "events_react.png",
+        "url": "https://github.com/JuanjoHub/RepositoriosGit/tree/master/practicas/Practica_8.4",
+        "demo": "./practicas/Practica_8.4/Actividad_8.4.html"
+      },
+
+      {
+        "title": "Eventos de teclado",
+        "category": "Aparecen una serie de instrucciones y la velocidad que podremos subir o bajar si pulsamos las felchas de dirección",
+        "image": "velocidad_react.png",
+        "url": "https://github.com/JuanjoHub/RepositoriosGit/blob/master/practicas/Practica_8.4.1/Practica_8.4.1.html",
+        "demo": "./practicas/Practica_8.4.1/Actividad_8.4.1.html"
+      },
+
+      {
+        "title": "Eventos de scroll",
+        "category": "Aparece un texto en el que, si scroleamos hacia abajo y llegamos al final, nos saltara un evento con un boton de cerrar",
+        "image": "scroll_down_react.png",
+        "url": "https://github.com/JuanjoHub/RepositoriosGit/tree/master/practicas/Practica_8.5",
+        "demo": "./practicas/Practica_8.5/Practica_8.5.html"
+      },
+
+      {
+        "title": "Eventos de scroll",
+        "category": "Aparece un texto 'Cargando' en el que pasado un tiempo nos redirige a otro sitio web con algunas imagenes aleatorias",
+        "image": "collage_react.png",
+        "url": "https://github.com/JuanjoHub/RepositoriosGit/tree/master/practicas/Practica_8.6",
+        "demo": "./practicas/Practica_8.6/Practica_8.6.html"
+      },
+      
+      {
+        "title": "Cara o Cruz",
+        "category": "Aparece en la consola una promesa en la que nos indicará si es 'cara' o si es 'cruz' ",
+        "image": "caraCruz.png",
+        "url": "https://github.com/JuanjoHub/RepositoriosGit/tree/master/practicas/Ejercicio_1_CaraCruz",
+        "demo": "./practicas/Ejercicio_1_CaraCruz/caraCruz.html"
+      },
+
+      {
+        "title": "Asincrono",
+        "category": "Funcionamiento de JS de manera asincrona",
+        "image": "reloj_react.png",
+        "url": "https://github.com/JuanjoHub/RepositoriosGit/blob/master/practicas/Ejercicio_2_Asincrono/Promesas_Asincronas.html",
+        "demo": "./practicas/Ejercicio_2_Asincrono/Promesas_Asincronas.html"
+      },
+
+      {
+        "title": "Slider",
+        "category": "Ejemplo de un slider con jquery",
+        "image": "Slider.png",
+        "url": "https://github.com/JuanjoHub/RepositoriosGit/tree/master/practicas/Ejemplo_Slider_jquery",
+        "demo": "./practicas/Ejemplo_Slider_jquery/ejemplo_flexslider.html"
+      },
+
+      {
+        "title": "Pelota",
+        "category": "Nos apareceran dos camposen los que tendremos que introducir un numero. Si uno es mayor que el otro hará efectos de desplazamiento diferentes",
+        "image": "pelota_react.png",
+        "url": "https://github.com/JuanjoHub/RepositoriosGit/blob/master/practicas/Practica_pelota_buena/Practica_pelota.html",
+        "demo": "./practicas/Practica_pelota_buena/Practica_pelota.html"
+      }
+
+
+      
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+     
+      {
+        "text": "That Juanjo must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
